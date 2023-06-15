@@ -1,0 +1,10 @@
+
+r
+java:S3655;"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆšÜæüÿÿÿÿ8£òìðô0
+]	java:S125"<This block of commented-out lines of code should be removed.(‚ÿÀÀýÿÿÿÿ8°Õ‰Ñô0
+X	java:S125%"<This block of commented-out lines of code should be removed.(§èúê8³Õ‰Ñô0
+W
+java:S34579"AFormat specifiers should be used instead of string concatenation.(ÖŒŽ±
+Q	java:S1252"<This block of commented-out lines of code should be removed.(½‘Ñ³
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8»òìðô0
